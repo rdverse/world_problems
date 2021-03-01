@@ -24,8 +24,6 @@
 
 
 
-
-
 # Evolution of testing methods for covid-19
 
 | ID | Paper | Year | Keywords | Resources |
