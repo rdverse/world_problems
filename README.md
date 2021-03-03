@@ -1,7 +1,7 @@
 + [2.5 Genetic Algorithms](summaries/2.5.md)
 + [2.6 Preprocessing steps](summaries/2.6) 
 + [2.7 isomap dimension reduction](summaries/2.7.md)
-+ [2.9 Preprocessing steps that we are following for now](summaries/2.9.md)
+
 
 # Preprocessing and methods
 | ID | Paper | Year | Keywords | Resources |
@@ -14,9 +14,11 @@
 | <a name="2.6"></a>2.6 | Automated workflow for MALDI-ToF mass spectra pattern | 2019 | preprocess feature extraction| [`pdf`](https://www.icloud.com/iclouddrive/0GzVu8M-iVIjll29n8nPe4CPA#2.6) [`notes`](https://www.icloud.com/iclouddrive/0StQQ5qPC5W6S3UrTvQEF4y5w#2.6e) [`summary`](summaries/2.6.md) [`code`]()
 | <a name="2.7"></a>2.7 | Review of methods for covid-19 | 2020 | review| [`pdf`](https://www.icloud.com/iclouddrive/0A30BuLziA3n8iXmibU91tYcQ#2.7) [`notes`](https://www.icloud.com/iclouddrive/0YfX8k5_x1M_1nnbJzEkvit3A#2.7e) [`summary`](summaries/2.7.md)| 
 | <a name="2.8"></a>2.8 |ANN on smaller dataset | 2019 | methods | [`pdf`](https://www.icloud.com/iclouddrive/0Iz5MSVqX68dl2ZjiIIYR5joA#2.8) [`notes`](https://www.icloud.com/iclouddrive/0D4nbsh0Mn_F7MconNN_4A-GA#2.8e) [`summary`](summaries/2.8.md)| 
-| <a name="2.9"></a>2.9 |ML on smaller dataset | 2019 | methods preprocessing steps| [`pdf`](https://www.icloud.com/iclouddrive/0Zsrn6LDLuYofvIyBqU-MxUIA#2.9) [`notes`](https://www.icloud.com/iclouddrive/0fD6naf6ra05OH5peHhlxqNJw#2.9e) [`summary`](summaries/2.9.md)| 
+| <a name="2.9"></a>2.9 |ML on smaller dataset | 2019 | methods | [`pdf`](https://www.icloud.com/iclouddrive/0Zsrn6LDLuYofvIyBqU-MxUIA#2.9) [`notes`](https://www.icloud.com/iclouddrive/0fD6naf6ra05OH5peHhlxqNJw#2.9e) [`summary`](summaries/2.9.md)| 
 | <a name="2.10"></a>2.10 |SVM on smaller dataset | 2018 | methods | [`pdf`](https://www.icloud.com/iclouddrive/0eLoh1b0APgp0DLHUvwUCPK2Q#2.10) [`notes`](https://www.icloud.com/iclouddrive/07NDVCNMcFl1mxmXuzf6ZXV7Q#2.10e) [`summary`](summaries/2.10.md)|
 | <a name="2.11"></a>2.11  |Machine learning method based on the genetic and world competitive contests algorithms | 2021 | methods | [`pdf`](https://www.icloud.com/iclouddrive/0NuKS4yMDJbbGnEuRH3sKVCCQ#2.11) [`notes`](https://www.icloud.com/iclouddrive/0NuKS4yMDJbbGnEuRH3sKVCCQ#2.11) [`summary`](summaries/2.11.md)|
+
+
 
 
 
@@ -38,10 +40,6 @@
 | <a name="r.1"></a>r.1 | An Automated Allele-calling System for High-throughput Microsatellite Genotyping | 2003 |  Dynamic programming and smoothening curves | [`pdf`](https://www.icloud.com/iclouddrive/0Y93wvriraRvKCmfQ_C_08nFA#r1) [`Loc`](summaries/2.4.md) [`summary`](summaries/2.4.md)|
 | <a name="r.2"></a>r.2 | Genetic Algorithm implementation | 2010 | GA | [`pdf`](https://www.icloud.com/iclouddrive/0Xo6s29hj0jeEf4aU93ksmfiw#r2) [`notes`](https://www.icloud.com/iclouddrive/0nFOI2yK_NwEiTQWSeI3P0yaQ#r2e) [`loc`](summaries/2.5.md) [`summary`](summaries/r.2.md)| 
 | <a name="r.3"></a>r.3 | Local Signal to Noise Ratio| 2006 | Noise| [`pdf`](https://www.icloud.com/iclouddrive/0Xo6s29hj0jeEf4aU93ksmfiw#r2)|[`loc`](summaries/2.6.md) [`summary`](summaries/r.3.md)| 
-| <a name="r.4"></a>r.4 |World competitive contests| 2016 | wrapper for GA| [`pdf`](https://www.icloud.com/iclouddrive/0Otb2AYgaf1nHegCv68GYYFpQ#r.4)|[`loc`](summaries/2.11.md) [`notes`](https://www.icloud.com/iclouddrive/0Xpw3hge9JbW_7lr1Ucg1eZlg#r.4e)|[`loc`](summaries/2.11.md)[`summary`](summaries/r.4.md)| 
-
-
-
 
 
 <!-- | <a name="1"></a>1 | Name | year | key| [`pdf`]() [`notes`]() [`summary`]() [`code`]() | --> 

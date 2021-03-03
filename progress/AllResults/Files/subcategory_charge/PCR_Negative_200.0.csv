@@ -1,0 +1,96 @@
+,label,sub_label,file_path,prob(Neg),prob(Pos),prediction_accuracy,time_evaluated
+51,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/MS_Day3.txt,0.049903381642512075,0.950096618357488,0.0,69
+36,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/HM_Day3.txt,0.14997512437810942,0.8500248756218906,0.0,67
+9,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/NR_Day1.txt,0.15870689655172415,0.8412931034482759,1.7241379310344827,58
+7,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/LK_Day2.txt,0.18610256410256412,0.8138974358974359,3.076923076923077,65
+85,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/MK_Day2.txt,0.19350529100529099,0.8064947089947091,3.1746031746031744,63
+69,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/WM_4Sept.txt,0.22147540983606556,0.7785245901639345,1.639344262295082,61
+60,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/RK_Day2.txt,0.2339861111111111,0.766013888888889,5.0,60
+1,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/BeBr_Day14.txt,0.2547435897435898,0.7452564102564103,1.9230769230769231,52
+70,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/ZM_Day2.txt,0.28748611111111116,0.7125138888888889,8.333333333333332,60
+8,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/MaCa.txt,0.2978645833333334,0.7021354166666667,6.25,64
+38,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/HuAn_Day9.txt,0.30419312169312174,0.6958068783068783,14.285714285714285,63
+31,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/DeMi_Day9.txt,0.3352553763440861,0.664744623655914,20.967741935483872,62
+28,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/DR_Day2.txt,0.35077272727272724,0.6492272727272727,14.545454545454545,55
+12,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/57_RoDe.txt,0.35124999999999995,0.64875,18.0,50
+58,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/RC_Day2.txt,0.3716666666666666,0.6283333333333334,30.434782608695656,46
+43,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/KaMi_Day9.txt,0.38088164251207723,0.6191183574879227,31.88405797101449,69
+17,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BD_Day2.txt,0.4082010582010582,0.5917989417989419,31.746031746031743,63
+44,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/KoTa_Day14.txt,0.4343719806763285,0.5656280193236716,30.434782608695656,69
+81,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/LD_Day3.txt,0.46181944444444445,0.5381805555555554,35.0,60
+3,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/DE_Day2.txt,0.47352112676056346,0.5264788732394367,47.88732394366197,71
+23,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/CA_Day2.txt,0.48762500000000003,0.5123749999999999,48.333333333333336,60
+68,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/WF_4Sept.txt,0.48935792349726775,0.5106420765027323,40.98360655737705,61
+52,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/MT_Day2.txt,0.49315476190476193,0.5068452380952381,47.14285714285714,70
+62,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/SE_Day3.txt,0.49718137254901956,0.5028186274509805,38.23529411764706,68
+25,PCR_Negative,Recovering and previously exposed (Negatives),"covidData/PCR_Negative/Recovering and previously exposed (Negatives)/D,G_Day2.txt",0.5080972222222223,0.49190277777777774,53.333333333333336,60
+6,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/HD_Day9.txt,0.5125925925925926,0.4874074074074074,55.55555555555556,63
+24,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/CM_Day2.txt,0.515,0.48500000000000004,51.42857142857142,70
+34,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/HE_Day2.txt,0.5179285714285714,0.48207142857142865,51.42857142857142,70
+2,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/CJ_31Aug20.txt,0.5199269005847953,0.48007309941520465,45.614035087719294,57
+50,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/MM_Day8.txt,0.5691044776119404,0.4308955223880597,61.19402985074627,67
+4,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/DJ_Day2.txt,0.6276075268817204,0.37239247311827955,77.41935483870968,62
+0,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/17_DuCe.txt,0.6295901639344262,0.37040983606557376,88.52459016393442,61
+11,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/33_JaKa.txt,0.634469696969697,0.36553030303030304,58.18181818181818,55
+5,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/GA_Day2.txt,0.6363095238095238,0.3636904761904761,80.95238095238095,63
+16,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BC_Day2.txt,0.646465053763441,0.3535349462365591,74.19354838709677,62
+63,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/SG_Day3.txt,0.647241379310345,0.3527586206896552,86.20689655172413,58
+40,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/JT_Day1.txt,0.6548666666666666,0.34513333333333335,84.0,50
+59,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/RJ_Day2.txt,0.6813649425287357,0.3186350574712643,75.86206896551724,58
+42,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/KG_Day1.txt,0.7036057692307692,0.29639423076923077,82.6923076923077,52
+30,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/DaJa_Day9.txt,0.7155384615384616,0.2844615384615385,95.38461538461539,65
+64,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/SJ_Day2.txt,0.7393693693693694,0.26063063063063063,91.8918918918919,74
+27,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/DJ_Day9.txt,0.7710792349726776,0.2289207650273224,98.36065573770492,61
+37,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/HS_Day2.txt,0.7891410256410257,0.21085897435897435,90.76923076923077,65
+66,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/SmK_Day3.txt,0.7963932291666667,0.20360677083333334,100.0,64
+48,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/MB_Day3.txt,0.8175940860215053,0.18240591397849462,98.38709677419355,62
+18,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BJ_Day1.txt,0.8183700980392159,0.18162990196078427,100.0,68
+13,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/AM_Day9.txt,0.8333035714285714,0.16669642857142858,98.21428571428571,56
+65,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/SM_Day2.txt,0.8499404761904762,0.15005952380952384,100.0,56
+61,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/SD_Day2.txt,0.852474358974359,0.14752564102564103,100.0,65
+10,PCR_Negative,False Negatives,covidData/PCR_Negative/False Negatives/PK_Day9.txt,0.8619117647058825,0.13808823529411765,100.0,68
+39,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/HuJa_Day9.txt,0.8673275862068967,0.13267241379310346,100.0,58
+20,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BaMi_Day9.txt,0.8772869458128079,0.12271305418719211,100.0,58
+53,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/NeCo_Day9.txt,0.8887899543378994,0.11121004566210042,95.8904109589041,73
+46,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/LB_Day9.txt,0.8993247126436781,0.10067528735632182,100.0,58
+82,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/LJ_Day8.txt,0.9101344086021504,0.08986559139784948,100.0,62
+74,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/CD_Day9.txt,0.9131432748538011,0.08685672514619884,100.0,57
+55,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/OP_Day9.txt,0.9142647058823531,0.08573529411764705,100.0,51
+76,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/HP_Day9.txt,0.9204864468864469,0.07951355311355313,100.0,65
+54,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/OD_Day9.txt,0.9220114942528737,0.07798850574712644,100.0,58
+21,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BoRo_Day9.txt,0.9245703125000001,0.0754296875,100.0,64
+15,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/AbEa_Day9.txt,0.9249338624338624,0.07506613756613759,100.0,63
+47,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/LaTo_Day9.txt,0.9290860215053763,0.07091397849462365,100.0,62
+41,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/JoMa_Day9.txt,0.9338257575757576,0.06617424242424243,100.0,66
+67,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/VM_Day8.txt,0.9372950819672131,0.06270491803278687,100.0,61
+35,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/HE_Day3.txt,0.9390224358974361,0.0609775641025641,100.0,52
+83,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/MC_Day9.txt,0.9441525423728814,0.05584745762711865,100.0,59
+57,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/PV_Day9.txt,0.9453598484848484,0.05464015151515151,100.0,44
+94,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/YD_Day9.txt,0.9473118279569891,0.052688172043010746,100.0,62
+22,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BrTh_Day9.txt,0.9479874213836478,0.052012578616352195,100.0,53
+29,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/DW_Day9.txt,0.9564265536723165,0.04357344632768361,100.0,59
+33,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/EmBa_Day9.txt,0.9593518518518517,0.04064814814814815,100.0,54
+87,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/QR_Day9.txt,0.9630282738095238,0.03697172619047619,100.0,56
+49,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/MJ_Day9.txt,0.9654228855721394,0.03457711442786069,100.0,67
+79,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/HoMo_Day9.txt,0.9672270114942529,0.03277298850574713,100.0,58
+86,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/MaZh_Day9.txt,0.9779089506172842,0.02209104938271605,100.0,54
+26,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/DG_Day9.txt,0.979375,0.020624999999999998,100.0,68
+77,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/HaTr_Day9.txt,0.9802118644067795,0.01978813559322034,100.0,59
+88,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/RoWi_Day9.txt,0.9815530133928572,0.01844698660714286,100.0,64
+73,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/AbEr_Day9.txt,0.9839840029761904,0.01601599702380952,100.0,64
+75,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/DeJa_Day9.txt,0.9852083333333334,0.014791666666666667,100.0,60
+90,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/SMB_Day8.txt,0.9882908805031447,0.011709119496855347,100.0,53
+45,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/KoTa_Day9.txt,0.9902932098765431,0.00970679012345679,100.0,54
+56,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/OlSh_Day9.txt,0.994705882352941,0.005294117647058822,100.0,51
+71,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/3_BaJu.txt,0.9960990338164252,0.0039009661835748793,100.0,69
+78,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/HoCo_Day9.txt,0.99725175070028,0.0027482492997198877,100.0,68
+72,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/44_LiJj.txt,0.9974000000000003,0.0026,100.0,75
+19,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/BM_Day9.txt,0.9974999999999999,0.0025000000000000005,100.0,58
+14,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/AW_Day9.txt,0.9979032258064516,0.002096774193548387,100.0,62
+93,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/VP_Day8.txt,0.9984235588972431,0.0015764411027568922,100.0,57
+84,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/ME_Day9.txt,0.9987264150943396,0.0012735849056603773,100.0,53
+92,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/TuKe_Day9.txt,0.9989010141093475,0.0010989858906525574,100.0,54
+80,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/JeRe_Day9.txt,0.9990248226950355,0.0009751773049645389,100.0,47
+89,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/RyCi_Day9.txt,0.9990444862155389,0.0009555137844611528,100.0,76
+91,PCR_Negative,Similar to Negative Control,covidData/PCR_Negative/Similar to Negative Control/SM_Day9.txt,0.9993421052631579,0.0006578947368421052,100.0,57
+32,PCR_Negative,Recovering and previously exposed (Negatives),covidData/PCR_Negative/Recovering and previously exposed (Negatives)/EaJo_Day9.txt,0.9996370967741937,0.0003629032258064516,100.0,62

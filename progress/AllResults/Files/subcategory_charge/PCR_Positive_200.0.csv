@@ -1,0 +1,64 @@
+,label,sub_label,file_path,prob(Neg),prob(Pos),prediction_accuracy,time_evaluated
+131,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/41_LeJu.txt,0.9859795321637427,0.014020467836257308,0.0,57
+156,PCR_Positive,Symptomatic,covidData/PCR_Positive/Symptomatic/WF_7Aug.txt,0.9224116161616162,0.07758838383838383,0.0,66
+149,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/TN_Day3.txt,0.8890547263681593,0.1109452736318408,0.0,67
+130,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/WiBr_Asymp.txt,0.8733854166666667,0.12661458333333334,0.0,64
+133,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/62_TeTr.txt,0.8639919354838711,0.136008064516129,0.0,62
+117,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/CoKe_Asymp.txt,0.8266005291005292,0.17339947089947091,6.349206349206349,63
+129,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/ThSe_Asymp.txt,0.7936940298507462,0.20630597014925373,1.4925373134328357,67
+120,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/JoMa_Asymp.txt,0.7928720238095236,0.20712797619047615,1.7857142857142856,56
+140,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/EE_Day2.txt,0.7795333333333333,0.22046666666666667,6.0,50
+139,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/EE_Day1.txt,0.7152118644067795,0.2847881355932203,10.16949152542373,59
+146,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/RT_Day5.txt,0.7101900584795321,0.2898099415204678,5.263157894736842,57
+143,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/MM_Day3.txt,0.7051209677419357,0.29487903225806456,6.451612903225806,62
+134,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/71_WrCa.txt,0.7010677083333333,0.2989322916666667,10.9375,64
+116,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/CoAd_Asymp.txt,0.7007886904761905,0.29921130952380953,7.142857142857142,56
+137,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/ED_Day7.txt,0.6895564516129035,0.31044354838709676,14.516129032258066,62
+136,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/BG_Day2.txt,0.6587106918238993,0.3412893081761006,24.528301886792452,53
+118,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/DeGr_Asymp.txt,0.6560846560846562,0.34391534391534395,17.46031746031746,63
+147,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/SF_Day5.txt,0.6555555555555553,0.3444444444444444,18.333333333333332,60
+103,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/HuGr_Asymp.txt,0.6451612903225805,0.35483870967741943,12.903225806451612,62
+154,PCR_Positive,Symptomatic,covidData/PCR_Positive/Symptomatic/NoJa_Symp.txt,0.6363836477987422,0.3636163522012578,24.528301886792452,53
+122,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/MaDi_Asymp.txt,0.5697692307692308,0.43023076923076925,33.84615384615385,65
+138,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/ED_Day8.txt,0.5628928571428572,0.4371071428571429,44.285714285714285,70
+126,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/OpPi_Asymp.txt,0.5605555555555556,0.43944444444444447,33.33333333333333,54
+121,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/KeMi_Asymp.txt,0.5261309523809524,0.4738690476190476,39.285714285714285,56
+157,PCR_Positive,Symptomatic,covidData/PCR_Positive/Symptomatic/WM_7Aug.txt,0.506025641025641,0.4939743589743589,53.84615384615385,65
+128,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/SmBa_Asymp.txt,0.47349033816425123,0.5265096618357489,63.76811594202898,69
+96,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/CaDr_Asymp.txt,0.4684134615384616,0.5315865384615385,59.61538461538461,52
+132,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/53_RaNi.txt,0.4567051282051282,0.5432948717948718,50.76923076923077,65
+155,PCR_Positive,Symptomatic,covidData/PCR_Positive/Symptomatic/OnKe_Symp.txt,0.4396527777777777,0.5603472222222222,65.27777777777779,72
+142,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/LK_Day3.txt,0.4331901041666667,0.5668098958333333,59.375,64
+148,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/SPF.txt,0.39725757575757564,0.6027424242424242,72.72727272727273,55
+110,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/NeCo_Asymp.txt,0.39248148148148154,0.6075185185185185,62.22222222222222,45
+135,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/AT_Day6.txt,0.37650326797385625,0.6234967320261439,80.3921568627451,51
+125,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/NoCl_Asymp.txt,0.3729371584699453,0.6270628415300545,75.40983606557377,61
+123,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/McBr_Asymp.txt,0.35515384615384615,0.6448461538461538,87.6923076923077,65
+144,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/RE1_Day9.txt,0.3508510638297872,0.6491489361702129,85.1063829787234,47
+145,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/RE2_Day9.txt,0.34549180327868856,0.6545081967213116,81.9672131147541,61
+141,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/KC_Day3.txt,0.33694444444444444,0.6630555555555555,85.0,60
+150,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/UJ_Day2.txt,0.3329975124378109,0.667002487562189,80.59701492537313,67
+109,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/McTy_Asymp.txt,0.32895833333333335,0.6710416666666666,92.1875,64
+119,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/FiNo_Asymp.txt,0.30186111111111114,0.6981388888888888,81.66666666666667,60
+111,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/OmDe_Asymp.txt,0.29761299435028254,0.7023870056497177,91.52542372881356,59
+102,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/HaNa9-24_Asymp.txt,0.2797385620915033,0.7202614379084968,92.15686274509804,51
+106,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/LaAd_Asymp.txt,0.26693055555555556,0.7330694444444444,95.0,60
+127,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/PaBr_Asymp.txt,0.24295977011494252,0.7570402298850576,93.10344827586206,58
+97,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/CoMa_Asymp.txt,0.24243686868686867,0.7575631313131314,98.48484848484848,66
+115,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/VaAn_Asymp.txt,0.2381127450980392,0.7618872549019607,97.05882352941177,68
+112,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/ScJa_Asymp.txt,0.23772598870056494,0.762274011299435,100.0,59
+99,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/DeRa_Asymp.txt,0.21034722222222219,0.7896527777777779,100.0,60
+124,PCR_Positive,Asymptomatic_B (Recovering),covidData/PCR_Positive/Asymptomatic_B (Recovering)/NiRe_Asymp.txt,0.1891397849462365,0.8108602150537635,100.0,62
+104,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/KaMa_Asymp.txt,0.18856965174129353,0.8114303482587066,100.0,67
+108,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/MaMi_Asymp.txt,0.1534502923976608,0.8465497076023393,98.24561403508771,57
+153,PCR_Positive,Symptomatic,covidData/PCR_Positive/Symptomatic/CrDa_Symp.txt,0.1391534391534392,0.8608465608465609,100.0,63
+107,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/LaJo_Asymp.txt,0.1251736111111111,0.874826388888889,98.61111111111111,72
+151,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/VC_Day7.txt,0.10377604166666667,0.8962239583333333,100.0,64
+114,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/UgPi_Asymp.txt,0.09757861635220125,0.9024213836477989,100.0,53
+101,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/HaNa9-20_Asymp.txt,0.0946236559139785,0.9053763440860215,100.0,62
+98,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/DaEm_Asymp.txt,0.08862121212121216,0.9113787878787878,100.0,55
+105,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/KrWe_Asymp.txt,0.08730303030303029,0.9126969696969698,100.0,55
+113,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/ScNa_Asymp.txt,0.07612433862433864,0.9238756613756614,100.0,63
+95,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/BaKe_Asymp.txt,0.0633879781420765,0.9366120218579234,100.0,61
+100,PCR_Positive,Asymptomatic_A (Early infection),covidData/PCR_Positive/Asymptomatic_A (Early infection)/EnLe_Asymp.txt,0.055625,0.9443750000000001,100.0,72
+152,PCR_Positive,No symptom information,covidData/PCR_Positive/No symptom information/VO_Day8.txt,0.02480225988700565,0.9751977401129943,100.0,59
