@@ -34,7 +34,7 @@
 
 For 1,2,3 The higher the performace score, the more imoportant the feature is.
 
-4. Partial dependence plots, univariate distributions, multivariate distribution plots provide certain visual cues, that tells us how each feature plays a role in contributing towards model prediction. These plots can be found in [`here`](../utils/feature_importance_plots.md)
+4. Partial dependence plots, univariate distributions, multivariate distribution plots provide certain visual cues, that tells us how each feature plays a role in contributing towards model prediction. These plots can be found in [`here`](utils/feature_importance_plots.md)
 
 
 5. SHAP : 

@@ -10,15 +10,12 @@
 
 
 # Partial dependence plots
+![partial dependence using logistic regression](../AllResults/Images/feature_importance/partial_dependence_lr.png)
 
-
-
-
-
+![partial dependence using random forest](../AllResults/Images/feature_importance/partial_dependence_rf.png)
 
 # SHAP
-
-
+![partial dependence using random forest](../AllResults/Images/feature_importance/partial_dependence_rf.png)
 
 
 # LIME
